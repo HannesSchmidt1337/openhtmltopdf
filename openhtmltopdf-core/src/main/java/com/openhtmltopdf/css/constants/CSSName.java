@@ -394,7 +394,7 @@ public final class CSSName implements Comparable<CSSName> {
                     "-fs-text-decoration-extent",
                     PRIMITIVE,
                     "line",
-                    NOT_INHERITED,
+                    INHERITS,
                     new PrimitivePropertyBuilders.FSTextDecorationExtent()
             );
 
@@ -1077,7 +1077,7 @@ public final class CSSName implements Comparable<CSSName> {
                     "text-decoration",
                     PRIMITIVE,
                     "none",
-                    NOT_INHERITED,
+                    INHERITS,
                     new PrimitivePropertyBuilders.TextDecoration()
             );
 

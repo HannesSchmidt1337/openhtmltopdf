@@ -1,3 +1,25 @@
+# Estar Colibri Fork
+
+Custom fork of openhtmltopdf.
+
+## Base Version
+
+openhtmltopdf 1.1.36
+
+## Custom Changes
+
+Modified CSSName handling for multiple text decorations.
+
+Commit:
+
+`81a1ec13 Fix CSSName for multiple text decorations`
+
+## Usage
+
+This fork is intended to be used via JitPack.
+
+---
+
 [![build-release](https://github.com/openhtmltopdf/openhtmltopdf/workflows/release/badge.svg)](https://github.com/openhtmltopdf/openhtmltopdf/actions?query=workflow%3Arelease)
 
 # OPEN HTML TO PDF
